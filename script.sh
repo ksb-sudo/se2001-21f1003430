@@ -4,4 +4,4 @@
 export GITHUB_USERNAME="ksb-sudo"
 
 # Export the GitHub repository name
-export GITHUB_REPOSITORY="se2001-21f10003430"
+export GITHUB_REPOSITORY="se2001-21f1003430"
